@@ -8,6 +8,10 @@ Script simples em Python, projetado para **baixar vídeos da internet** através
 - **Qualidade Superior**: 🎥 Por padrão, os downloads serão efetuados na melhor qualidade possível.
 - **Alta Versatilidade**: 🧰 Através da biblioteca yt-dlp, baixe vídeos de uma infinidade de [sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)!
 
+# ✅ Pré-requisitos
+
+- Python 3.12 ou superior, disponível através do [**site oficial**](https://www.python.org/downloads/).
+
 # 🛠️ Instalação Local
 
 ```bash
